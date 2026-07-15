@@ -1,0 +1,11 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/UE_MCP_Bridge/Binaries/
+Plugins/UE_MCP_Bridge/Intermediate/
+.vs/
+.idea/
+*.sln
+*.suo
