@@ -9,3 +9,6 @@ Plugins/UE_MCP_Bridge/Intermediate/
 .idea/
 *.sln
 *.suo
+
+blender-mcp/
+.mcp.json
