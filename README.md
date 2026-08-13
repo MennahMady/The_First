@@ -1,6 +1,5 @@
 # The_First
 
-# The First
 
 **A branching narrative game about the first-generation college experience.**
 
