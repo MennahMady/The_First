@@ -1,9 +1,8 @@
-# The_First
+# The First
 
+**A branching narrative game about high school, home, and being the first in your family.**
 
-**A branching narrative game about the first-generation college experience.**
-
-You play a student on their first day, moving between home and school. Every choice costs something on both sides — there is no option that is simply correct. That constraint is the design, not a limitation of the writing.
+You play a high school student on their first day at a new school, moving between home and school — and the first in your family expected to reach college. Every choice costs something on both sides — there is no option that is simply correct. That constraint is the design, not a limitation of the writing.
 
 Built solo in Unreal Engine 5 with all art authored in Blender, as a CSS 497 capstone at the University of Washington Bothell.
 
@@ -13,7 +12,7 @@ Built solo in Unreal Engine 5 with all art authored in Blender, as a CSS 497 cap
 
 > If a choice has a costless right answer, it misrepresents a structural problem as a failure of judgement.
 
-Research on first-generation and immigrant-origin students describes a difficulty that is *structural* — institutions run on rules nobody writes down. A game that offers an obviously correct option teaches the opposite: that you'd have been fine if you'd just chosen better.
+Research on immigrant-origin students, and on those who will be the first in their family to reach college, describes a difficulty that is *structural* — institutions run on rules nobody writes down. A game that offers an obviously correct option teaches the opposite: that you'd have been fine if you'd just chosen better.
 
 So every branch carries a cost on both sides. Applying that rule as a test also found a bug: seventeen nodes where the player was choosing other people's reactions rather than their own action. All were rewritten.
 
@@ -55,11 +54,11 @@ Open it directly — no server or install needed.
 
 ## Research grounding
 
-Six constructs from the first-generation and immigrant-student literature shaped the writing. Each became a specific scene rather than a stated theme.
+Six constructs from the literature on immigrant-origin and first-in-family students shaped the writing. Each became a specific scene rather than a stated theme.
 
 | Construct | Source | Where it appears |
 |---|---|---|
-| Cultural mismatch | Stephens et al., 2012 | The school-rules cluster: follow the sheet exactly and you're never in trouble, and never in the room where the real rules get explained |
+| Cultural mismatch | Stephens et al., 2012 | Documented at college; the mismatch begins earlier. The school-rules cluster: follow the sheet exactly and you're never in trouble, and never in the room where the real rules get explained |
 | Family achievement guilt | Covarrubias & Fryberg, 2015 | The doorstep beat on every route — which version of the day you hand over |
 | Family obligation | Fuligni, Tseng & Lam, 1999 | The invitation scene above |
 | Language brokering | Orellana, 2009 | A walk-home option lists "a shift starting, or a sibling to collect, or a letter to translate" |
@@ -158,13 +157,13 @@ Molinsky, A. (2007). Cross-cultural code switching: The psychological challenges
 
 Orellana, M. F. (2009). *Translating Childhoods: Immigrant Youth, Language, and Culture*. New Brunswick, NJ: Rutgers University Press.
 
-Stephens, N. M., Fryberg, S. A., Markus, H. R., Johnson, C. S., & Covarrubias, R. (2012). Unseen disadvantage: How American universities' focus on independence undermines the academic performance of first-generation college students. *Journal of Personality and Social Psychology*, 102(6), 1178–1197.
+Stephens, N. M., Fryberg, S. A., Markus, H. R., Johnson, C. S., & Covarrubias, R. (2012). Unseen disadvantage: How American universities' focus on independence undermines the academic performance of high school student who will be the first in their family to reach colleges. *Journal of Personality and Social Psychology*, 102(6), 1178–1197.
 
 ---
 
 ## Credits
 
-**Manuna Mady** — design, writing, programming, art  
-Advisor: **Dr. Wooyoung Kim**  
-Computing & Software Systems, University of Washington Bothell  
+**Manuna Mady** — design, writing, programming, art
+Advisor: **Dr. Wooyoung Kim**
+Computing & Software Systems, University of Washington Bothell
 CSS 497 Capstone
